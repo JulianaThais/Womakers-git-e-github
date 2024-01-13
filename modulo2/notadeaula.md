@@ -12,3 +12,5 @@
 
 ### git add [ caminho do arquivo]
 **adiciona um arquivo especifico para a esteira de commit**
+
+### git commit
